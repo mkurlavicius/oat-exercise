@@ -24,3 +24,10 @@ Route::get('articles/{article}', 'ArticleController@show');
 Route::post('articles', 'ArticleController@store');
 Route::put('articles/{article}', 'ArticleController@update');
 Route::delete('articles/{article}', 'ArticleController@delete');
+
+
+Route::get('users', 'PersonController@index');
+Route::get('users/{person}', 'PersonController@show');
+Route::post('users', 'PersonController@store');
+Route::put('users/{person}', 'PersonController@update');
+Route::delete('users/{person}', 'PersonController@delete');
