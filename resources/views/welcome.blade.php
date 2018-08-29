@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="https://github.com/mkurlavicius/oat-exercise">Code on gitHub</a>
-                    <a href="http://212.76.255.185:8080/api/articles">Example (Articles API)</a>
+                    <a href="http://212.76.255.185:8080/api/users">Finished API</a>
                 </div>
             </div>
         </div>
