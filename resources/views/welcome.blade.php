@@ -85,8 +85,8 @@
                 <p>Mindaugas Kurlavičius</p>
 
                 <div class="links">
-                    <a href="https://github.com/laravel/laravel">Code on gitHub</a>
-                    <a href="https://laravel.com/docs">Example</a>
+                    <a href="https://github.com/mkurlavicius/oat-exercise">Code on gitHub</a>
+                    <a href="http://212.76.255.185:8080/api/articles">Example (Articles API)</a>
                 </div>
             </div>
         </div>
