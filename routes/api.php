@@ -29,7 +29,7 @@ Route::get('articles/{id}', function($id) {
 });
 
 Route::post('articles', function(Request $request) {
-    return Article::create($request->all);
+    return Article::create($request->all());
 });
 
 Route::put('articles/{id}', function(Request $request, $id) {
